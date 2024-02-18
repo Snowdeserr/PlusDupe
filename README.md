@@ -3,7 +3,7 @@ Dupe Plugin / Blacklist items
 
 
 
-# config.yml
+
 
 
 # PlusDupe Config
