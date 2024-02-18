@@ -1,0 +1,19 @@
+name: PlusDupe
+version: '1.0-Plus'
+main: me.skythebuilder.plusdupe.PlusDupe
+api-version: '1.20'
+Author: [Snowdesert]
+Website: https://github.com/Snowdeserr
+commands:
+  dupe:
+    description: Dupliziert das Item in deiner Hand
+    usage: /dupe
+  dupereload:
+    description: Lädt die Plugin-Konfiguration neu
+    usage: /dupereload
+    permission: itemduplication.reloadconfig
+
+permissions:
+  itemduplication.reloadconfig:
+    description: Erlaubt das Neuladen der Plugin-Konfiguration
+    default: op
